@@ -10,7 +10,7 @@ En la terminal, navega al directorio del proyecto y ejecuta npm install para ins
 Ejecuta 
 ### npm start
 para iniciar la aplicación en el puerto 3000.
-También puedes acceder a una versión en la nube de la aplicación en nombre_de_la_app.vercel.app.
+También puedes acceder a una versión en la nube de la aplicación en https://moviefinderappjahr.netlify.app.
 
 ## Uso
 Una vez que la aplicación esté en funcionamiento, podrás realizar búsquedas de películas ingresando el título en el campo de búsqueda. La aplicación mostrará una lista de películas que coincidan con el criterio de búsqueda. Al hacer clic en una película, se mostrará información detallada sobre ella.
